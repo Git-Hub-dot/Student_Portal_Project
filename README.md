@@ -40,13 +40,16 @@ This project allows students to register, login, and access a personal dashboard
 ## 📷 <u>**Screenshots:**</u>
 
 **Registration Form:**  
-![alt text]()
+![alt text](https://github.com/Git-Hub-dot/Student_Portal_Project/blob/d9d7e9c12c7070ab8d2cd660c5a2b3756e54540e/Registration%20Form.png)
+
+**Registration Success:**  
+![alt text](https://github.com/Git-Hub-dot/Student_Portal_Project/blob/d9d7e9c12c7070ab8d2cd660c5a2b3756e54540e/Registration%20Success.png)
 
 **Login Form:**  
-![alt text]()
+![alt text](https://github.com/Git-Hub-dot/Student_Portal_Project/blob/d9d7e9c12c7070ab8d2cd660c5a2b3756e54540e/Login%20Form.png)
 
 **Dashboard:**  
-![alt text]()
+![alt text](https://github.com/Git-Hub-dot/Student_Portal_Project/blob/d9d7e9c12c7070ab8d2cd660c5a2b3756e54540e/Login%20Success.png)
 ***
 ## 👨‍💻 <u>Author</u>
 
